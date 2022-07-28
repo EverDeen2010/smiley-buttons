@@ -40,4 +40,40 @@
         . . . . . 
         # . . . # 
         . # # # .
-        `</field></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_show_leds" id="?Rja^x]T=A=g=^BF]1mu"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        # . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="+DfG{-,S1t-vR9(%p|#o"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        # . . . . 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="H3chH3ivh-184/FF#~%`"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        # . . . . 
+        . # # . .
+        `</field><next><block type="device_show_leds" id="-j2kDz_CMG7EK}oN-Ms$"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        # . . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="1aF$drh-dMC2O:{:Vajd"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="($pTa%Q.]vMx;!xnoQuD"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
